@@ -164,7 +164,6 @@
 <details>
 <summary>$\nabla$算子介绍</summary>
 
-> [!TIP]
 >$\nabla$ 叫 **nabla 算子**，也叫**向量微分算子**
 即 $∇ = (\frac{\partial}{\partial x_1},\frac{\partial}{\partial x_2},\frac{\partial}{\partial x_3},...)^T$
 > - 作用于标量函数(标量场$f:\mathbb R^n\to \mathbb R$)可得 **梯度(gradient)**
@@ -174,7 +173,7 @@
 其中每个$F_i$是$x_1, ..., x_n$的函数
 \[\nabla\cdot\mathbf{F} = \frac{\partial F_1}{\partial x_1} + \frac{\partial F_2}{\partial x_2} + \cdots + \frac{\partial F_n}{\partial x_n}\]
 > - 与向量场叉乘可得 **旋度(curl)**
-> $$\nabla\times\mathbf F$$
+> \(\nabla\times\mathbf F\)
 
 </details>
 
@@ -245,7 +244,7 @@ f'(g(x))表示第三个齿轮相较于第二个齿轮g(x)传动的速度之比
 ***
 ***
 # 语言模型
-### 生成式语言大模型：预测下一个语素 **==next-token-prediction==**
+### 生成式语言大模型：预测下一个语素 **<mark>next-token-prediction</mark>**
 
 大模型本质上只是在做**接话和完形填空**，和人类的语言有非常明显的不同
 
@@ -268,7 +267,7 @@ f'(g(x))表示第三个齿轮相较于第二个齿轮g(x)传动的速度之比
 
 **统计语言模型(Statistical Language Model)：** 基于某一个长度的上文，使用一种统计的方法来预测下一个词的模式
 
-#### **GPT：Generative Pre-trained ==Transformer==**
+#### **GPT：Generative Pre-trained <mark>Transformer</mark>**
 **Transformer：** 作为深度学习中最强的模型之一，它可以举一反三地从训练数据中，学习输入到输出的规律
 延申
 
