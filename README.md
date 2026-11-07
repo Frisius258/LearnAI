@@ -5,5 +5,5 @@
 
 ⭐ 如果这个项目对你有帮助，欢迎 Star 支持一下，让更多人发现它。
 内容会持续更新
-- [Markdown学习笔记](Notes\LearnMarkdown.md)
-- [漫士AI学习笔记](Notes\LearnAI.md)
+- [Markdown学习笔记](Notes/LearnMarkdown.md)
+- [漫士AI学习笔记](Notes/LarnAI.md)
